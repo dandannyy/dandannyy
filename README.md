@@ -1,4 +1,11 @@
-## Hi there 👋
+<img width="1918" height="393" alt="karel_darling" src="https://github.com/user-attachments/assets/66df4d82-0c76-46a5-afa0-440e703d95ed" />
+
+
+## About me
+Brazilian girl from the countryside of São Paulo, Brasil<br>
+Systems Development Technician @ etec<br>
+Biomedical Science • Biomedicine Undergraduate Student @ unirp<br>
+Code in Place Student @ stanford
 
 <!--
 **dandannyy/dandannyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
