@@ -1,4 +1,4 @@
-<img width="1918" height="393" alt="karel_darling" src="https://github.com/user-attachments/assets/66df4d82-0c76-46a5-afa0-440e703d95ed" />
+<img width="3836" height="786" alt="karel_darling" src="https://github.com/user-attachments/assets/2c5e4aa4-db34-4183-b58d-f4bff0437b85" />
 
 ## About me
 Brazilian girl from the countryside of São Paulo, Brasil<br>
