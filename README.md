@@ -10,7 +10,7 @@ Code in Place Student @ stanford
 ## Build with thanks
 If you remix the code in your own, a quick credit in the file is appreciated.
 <br>
-### Notes
+### Notes:
 English isn't my first language, I hope you enjoy either way :)
 
 <!--
