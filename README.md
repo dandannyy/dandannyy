@@ -8,7 +8,10 @@ Undergraduate Researcher<br>
 Code in Place Student @ stanford
 <br>
 ## Build with thanks
-If you remix the code in your own, a quick credit in the file is appreciated :)
+If you remix the code in your own, a quick credit in the file is appreciated.
+<br>
+### Notes
+English isn't my first language, I hope you enjoy either way :)
 
 <!--
 **dandannyy/dandannyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
