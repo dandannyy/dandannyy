@@ -4,6 +4,7 @@
 Brazilian girl from the countryside of São Paulo, Brasil<br>
 Systems Development Technician @ etec<br>
 Biomedical Science • Biomedicine Undergraduate Student @ unirp<br>
+Undergraduate Researcher<br>
 Code in Place Student @ stanford
 <br>
 ## Build with thanks
