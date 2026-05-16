@@ -6,7 +6,9 @@ Brazilian girl from the countryside of São Paulo, Brasil<br>
 Systems Development Technician @ etec<br>
 Biomedical Science • Biomedicine Undergraduate Student @ unirp<br>
 Code in Place Student @ stanford
-
+<br><br>
+## Build with thanks
+If you remix the code in your own project, a quick credit in the file is appreciated :)
 <!--
 **dandannyy/dandannyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
